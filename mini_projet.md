@@ -16,7 +16,7 @@ La mise en place de la page d'accueil de l'application dans laquelle les options
 - Par pays : France, Chine, Etats Unis, Angleterre….
 
 ### Liste des articles par catégorie
-Quand l'utilisateur selectionne un article sur la page d'accueil, afficher tous les articles correspondant à cette catégorie dans un fragment. 
+Quand l'utilisateur selectionne une catégorie sur la page d'accueil, afficher tous les articles correspondant à cette catégorie dans un fragment. 
 
 La vue doit contenir : 
  - Le titre de l'article, 
